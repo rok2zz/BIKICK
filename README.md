@@ -1,4 +1,8 @@
-# study1
+# BIKICK
+BIKICK Website with Vue.js and TypeScript
+
+* Responsive Web Design
+* Utilize Json
 
 ## Project setup
 ```
