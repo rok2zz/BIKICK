@@ -1,8 +1,9 @@
 # BIKICK
 BIKICK Website with Vue.js and TypeScript
 
-* Responsive Web Design
-* Utilize Json
+반응형 웹 구현
+
+store를 활용한 정보 유지
 
 ## Project setup
 ```
